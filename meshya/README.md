@@ -2,6 +2,7 @@
 
 - [Meshya reports - fum code squad](#meshya-reports---fum-code-squad)
   - [29 Jul 2024](#29-jul-2024)
+  - [30 Jul 2024](#30-jul-2024)
 
 ## 29 Jul 2024
 1. Read 2.5 chapter of [rust book](https://rust-book.cs.brown.edu) - now I'm in [function 3.3](https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html) 
@@ -11,3 +12,11 @@
 5. Drink enough water
 6. Road a bicycle 
 7. Listen music until a mind blue screen of dead
+
+
+
+## 30 Jul 2024
+1. Read [functions 3.3](https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html) from [rust book](https://rust-book.cs.brown.edu)
+2. Watch [11th video of jadi network playlist](https://www.youtube.com/watch?v=qUJG-ldRkA8&list=PL-tKrPVkKKE00meXoxmIy6EgldK5XE-Z_&index=12) about TCP and UDP
+3. Read some RFC and extra reference about TCP packets and flags insides of TCP
+4. Participate in a bicycle hang out ( [video](https://youtu.be/F3KDQ8BFk0I) )
