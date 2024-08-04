@@ -6,6 +6,8 @@
   - [31 Jul 2024](#31-jul-2024)
   - [1 Aug 2024](#1-aug-2024)
   - [2 Aug 2024](#2-aug-2024)
+  - [3 Aug 2024](#3-aug-2024)
+  - [4 Aug 2024](#4-aug-2024)
 
 ## 29 Jul 2024
 1. Read 2.5 chapter of [rust book](https://rust-book.cs.brown.edu) - now I'm in [function 3.3](https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html) 
@@ -35,4 +37,10 @@
 4. Listen 20 times or more to [Valefor - mental collapse](https://www.youtube.com/watch?v=rO0ON8BzJLg)
 
 ## 2 Aug 2024
-1. Read [4.1 - ownership](https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html)
+1. Read [4.1 - ownership](https://rust-book.cs.brown.edu/ch04-01-what-is-ownership.html)
+
+## 3 Aug 2024
+1. Nothing
+
+## 4 Aug 2024
+1. Read [4.2 - references and borrowing](https://rust-book.cs.brown.edu/ch04-02-references-and-borrowing.html)
