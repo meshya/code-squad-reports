@@ -12,6 +12,9 @@
   - [6 Aug 2024](#6-aug-2024)
   - [7 Aug 2024](#7-aug-2024)
   - [8 Aug 2024](#8-aug-2024)
+  - [9 Aug 2024](#9-aug-2024)
+  - [10 Aug 2024](#10-aug-2024)
+  - [11 Aug 2024](#11-aug-2024)
 
 ## 29 Jul 2024
 1. Read 2.5 chapter of [rust book](https://rust-book.cs.brown.edu) - now I'm in [function 3.3](https://rust-book.cs.brown.edu/ch03-03-how-functions-work.html) 
@@ -59,3 +62,13 @@
 1. [Rust book 4.3 - Fixing ownership errors ](https://rust-book.cs.brown.edu/ch04-03-fixing-ownership-errors.html)
 ## 8 Aug 2024
 1. [Rust book 4.4 - The slice type ](https://rust-book.cs.brown.edu/ch04-04-slices.html)
+
+## 9 Aug 2024
+1. Nothing
+
+## 10 Aug 2024
+1. [4.5 - Ownership recap](https://rust-book.cs.brown.edu/ch04-05-ownership-recap.html)
+
+## 11 Aug 2024
+1. Survived
+
